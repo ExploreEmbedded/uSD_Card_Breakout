@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 6/28/2015 12:27:23 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 6/30/2015 10:37:57 AM
 
 BeginCmp
 TimeStamp = /558F91D3;
@@ -18,21 +18,21 @@ BeginCmp
 TimeStamp = /558F91DD;
 Reference = D1;
 ValeurCmp = ZENER;
-IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+IdModule  = ee:ZenerDiode_SMD;
 EndCmp
 
 BeginCmp
 TimeStamp = /558F91DC;
 Reference = D2;
 ValeurCmp = ZENER;
-IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+IdModule  = ee:ZenerDiode_SMD;
 EndCmp
 
 BeginCmp
 TimeStamp = /558F91DB;
 Reference = D3;
 ValeurCmp = ZENER;
-IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+IdModule  = ee:ZenerDiode_SMD;
 EndCmp
 
 BeginCmp
