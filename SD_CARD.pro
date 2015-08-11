@@ -1,4 +1,4 @@
-update=6/28/2015 11:44:36 AM
+update=7/27/2015 3:51:32 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,16 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=H:/PCB_Designes/MCUs-Base-Board-DVB-15001/Hardware/MCU_BaseBoard-cache
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
